@@ -1,0 +1,7 @@
+# FX pairs to monitor
+# One pair per line, comments start with #
+USDSGD=X
+EURUSD=X
+USDJPY=X
+GBPUSD=X
+USDCAD=X

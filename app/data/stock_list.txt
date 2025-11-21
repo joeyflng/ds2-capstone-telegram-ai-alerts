@@ -1,0 +1,9 @@
+# Stock symbols to monitor
+# One symbol per line, comments start with #
+TSLA
+AMZN
+HSY
+S
+KO
+FDS
+NVDA
